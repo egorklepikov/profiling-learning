@@ -4,6 +4,8 @@
 
 **FixedThreadPoolMain** - application running `FixedThreadPool` with 3 threads inside. Each task executes `StringBuilder.append()` methods endlessly
 
+**SwingMain** - application with UI written in pure Swing.
+
 Run entry points one by one using [IntelliJ Profiler](https://www.jetbrains.com/help/idea/cpu-and-allocation-profiling-basic-concepts.html) and carefully read snapshots as per https://www.jetbrains.com/help/idea/read-the-profiling-report.html
 
 
